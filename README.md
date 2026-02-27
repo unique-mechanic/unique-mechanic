@@ -84,9 +84,7 @@ HARDWARE         Custom PC · 3x monitors · MacBook M2
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unique-mechanic&show_icons=true&hide_border=true&bg_color=0a0e10&title_color=00ff88&icon_color=00ff88&text_color=c8d8dc)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-mechanic&layout=compact&hide_border=true&bg_color=0a0e10&title_color=00ff88&text_color=c8d8dc)
+[![GitHub Streak](https://streak-stats.demolab.com?user=unique-mechanic&theme=dark&hide_border=true&background=0a0e10&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c8d8dc&dates=5a8898)](https://git.io/streak-stats)
 
 </div>
 
