@@ -44,7 +44,7 @@
 | 📋 **CRM + Rostering System** | Laravel · Vue · REST API | `IN PROGRESS` |
 | 📊 **Remuneration Survey Tool** | Laravel · Advanced Schema | `PLANNING` |
 | 🌐 **Company Website** | Statamic · Antlers | `PLANNING` |
-| 🖥️ **Mechanic Lab Setup** | HTML · SVG · Vanilla JS | `[LIVE →](https://unique-mechanic.github.io/mechanic-lab)` |
+| 🖥️ **Mechanic Lab Setup** | HTML · SVG · Vanilla JS | `LIVE` |
 
 ---
 
@@ -52,12 +52,12 @@
 
 ```
 BACKEND          Laravel · PHP · Node.js · REST APIs · MySQL
-FRONTEND         Vue.js · Tailwind · Vanilla JS · HTML/CSS
+FRONTEND         Vue.js · Tailwind · Vanilla JS · HTML · CSS
 CMS              Statamic · Antlers templating
 AUTOMATION       n8n · self-hosted workflows · webhooks
 LINUX            Ubuntu · self-hosted services · SSH
-INFRASTRUCTURE   Azure (3× Win Server 2019) · SharePoint
-HARDWARE         Custom PC · 3× monitors · MacBook M2
+INFRASTRUCTURE   Azure (3x Win Server 2019) · SharePoint
+HARDWARE         Custom PC · 3x monitors · MacBook M2
 ```
 
 ---
@@ -65,17 +65,18 @@ HARDWARE         Custom PC · 3× monitors · MacBook M2
 ## `// ACTIVE_INFRASTRUCTURE`
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  MIDNIGHT REAPER PC ──── 3× 24" monitors            │
-│  MacBook M2         ──── 34" Ultrawide              │
-│  Surface Pro 7      ──── Ubuntu · n8n server        │
+┌──────────────────────────────────────────────────────┐
+│  MIDNIGHT REAPER PC  ──  3x 24" monitors             │
+│  MacBook M2          ──  34" Ultrawide               │
+│  Surface Pro 7       ──  Ubuntu · n8n automation     │
 │                          automate.researchwing.cc    │
-│  Dell XPS 13        ──── Ubuntu · Linux learning    │
-│  Dell OptiPlex      ──── Win7 · AIR-GAPPED          │
-│  NetComm NL20       ──── WiFi 6 · home router       │
-└─────────────────────────────────────────────────────┘
+│  Dell XPS 13         ──  Ubuntu · Linux learning     │
+│  Dell OptiPlex       ──  Win7 · AIR-GAPPED           │
+│  NetComm NL20        ──  WiFi 6 · home router        │
+└──────────────────────────────────────────────────────┘
 ```
-> 🖥️ [View full interactive lab diagram →](https://unique-mechanic.github.io/mechanic-lab)
+
+🖥️ [View full interactive lab diagram →](https://unique-mechanic.github.io/mechanic-lab)
 
 ---
 
@@ -83,9 +84,9 @@ HARDWARE         Custom PC · 3× monitors · MacBook M2
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unique-mechanic&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e10&title_color=00ff88&icon_color=00ff88&text_color=c8d8dc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unique-mechanic&show_icons=true&hide_border=true&bg_color=0a0e10&title_color=00ff88&icon_color=00ff88&text_color=c8d8dc)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-mechanic&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e10&title_color=00ff88&text_color=c8d8dc)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unique-mechanic&layout=compact&hide_border=true&bg_color=0a0e10&title_color=00ff88&text_color=c8d8dc)
 
 </div>
 
@@ -111,12 +112,10 @@ HARDWARE         Custom PC · 3× monitors · MacBook M2
 
 ## `// CONNECT`
 
-\`\`\`
-┌────────────────────────────────────────────────────────────┐
-│  github.com/unique-mechanic                                │
-│  mechanic-lab: https://unique-mechanic.github.io/mechanic-lab  │
-└────────────────────────────────────────────────────────────┘
-\`\`\`
+| | |
+|---|---|
+| 🐙 **GitHub** | [github.com/unique-mechanic](https://github.com/unique-mechanic) |
+| 🖥️ **Mechanic Lab** | [unique-mechanic.github.io/mechanic-lab](https://unique-mechanic.github.io/mechanic-lab) |
 
 ---
 
