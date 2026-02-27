@@ -111,12 +111,12 @@ HARDWARE         Custom PC · 3× monitors · MacBook M2
 
 ## `// CONNECT`
 
-```
-┌──────────────────────────────────────────┐
-│  github.com/unique-mechanic               │
-│  mechanic-lab: [your GitHub Pages link]  │
-└──────────────────────────────────────────┘
-```
+\`\`\`
+┌────────────────────────────────────────────────────────────┐
+│  github.com/unique-mechanic                                │
+│  mechanic-lab: https://unique-mechanic.github.io/mechanic-lab  │
+└────────────────────────────────────────────────────────────┘
+\`\`\`
 
 ---
 
